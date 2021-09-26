@@ -1,0 +1,6 @@
+﻿  CPPCraftDemo.cpp
+c:\users\alexandra\desktop\temp\interview-demos-master\cpp\cppcraftdemo\cppcraftdemo.cpp(232): warning C4018: '<': signed/unsigned mismatch
+c:\users\alexandra\desktop\temp\interview-demos-master\cpp\cppcraftdemo\cppcraftdemo.cpp(245): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  CPPCraftDemo.vcxproj -> C:\Users\Alexandra\Desktop\temp\interview-demos-master\cpp\Debug\CPPCraftDemo.exe
